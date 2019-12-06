@@ -1,0 +1,11 @@
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\bin\Debug\netcoreapp3.0\Poker.Application.exe
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\bin\Debug\netcoreapp3.0\Poker.Application.deps.json
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\bin\Debug\netcoreapp3.0\Poker.Application.runtimeconfig.json
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\bin\Debug\netcoreapp3.0\Poker.Application.runtimeconfig.dev.json
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\bin\Debug\netcoreapp3.0\Poker.Application.dll
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\bin\Debug\netcoreapp3.0\Poker.Application.pdb
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\obj\Debug\netcoreapp3.0\Poker.Application.csprojAssemblyReference.cache
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\obj\Debug\netcoreapp3.0\Poker.Application.AssemblyInfoInputs.cache
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\obj\Debug\netcoreapp3.0\Poker.Application.AssemblyInfo.cs
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\obj\Debug\netcoreapp3.0\Poker.Application.dll
+C:\Users\Latchmi\source\repos\latchmip\solution-latchmi-pauwels\Poker\Poker.Application\obj\Debug\netcoreapp3.0\Poker.Application.pdb
